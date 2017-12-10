@@ -1,0 +1,50 @@
+*.pyo
+*.pyc
+*.swp
+*.out
+*~
+
+# Packages
+*.egg
+*.egg-info
+bin
+build/
+dist
+eggs
+logs
+sdist
+
+# Dev clutter
+.idea
+.svn
+tmp
+
+# Installer logs
+pip-log.txt
+
+# Flake8 violation file
+violations.flake8.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+__pycache__
+database.db
+
+# Virtual environments
+env
+env*
+venv
+settings.py
+.webassets-cache
+​*.sublime-*​
+SHOW
+.DS_Store
+
+#uncomment when ready
+logging
+
+# Local configs
+#uncomment when ready
+#project_name/settings/local.py
